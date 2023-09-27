@@ -18,5 +18,5 @@ Visit our website to discover a variety of easy-to-follow recipes. No installati
 We welcome contributions! If you have a favorite recipe to share, follow our [contribution guidelines](CONTRIBUTING.md).
 
 *License:* [MIT License]
-
+    
 Happy cooking!
